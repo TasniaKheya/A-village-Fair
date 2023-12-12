@@ -1,0 +1,119 @@
+﻿  glad.c
+  image_loader.cpp
+  main.cpp
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\sphere.h(172,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\sphere.h(173,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\sphere.h(175,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+C:\Users\USER\Downloads\opengl\include\glad\glad.h(32,1): message : see previous definition of 'APIENTRY'
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(1105,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(1119,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(1125,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(1130,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(1167,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(1172,24): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(1177,24): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(1182,24): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(1437,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(1443,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(1537,45): warning C4101: 'model': unreferenced local variable
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(1679,33): warning C4101: 'rotateXMatrix2': unreferenced local variable
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(1679,81): warning C4101: 'scaleMatrix2': unreferenced local variable
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(1676,65): warning C4101: 'rotateZMatrix1': unreferenced local variable
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(1679,65): warning C4101: 'rotateZMatrix2': unreferenced local variable
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(1676,49): warning C4101: 'rotateYMatrix1': unreferenced local variable
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(1676,33): warning C4101: 'rotateXMatrix1': unreferenced local variable
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(1676,81): warning C4101: 'scaleMatrix1': unreferenced local variable
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(1676,103): warning C4101: 'moveMatrix1': unreferenced local variable
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(1676,95): warning C4101: 'model1': unreferenced local variable
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(1676,15): warning C4101: 'translateMatrix1': unreferenced local variable
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(1679,49): warning C4101: 'rotateYMatrix2': unreferenced local variable
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(2200,90): warning C4101: 'model': unreferenced local variable
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(2200,113): warning C4101: 'rotateX2Matrix': unreferenced local variable
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(2200,97): warning C4101: 'rotateX1Matrix': unreferenced local variable
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(2254,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(2254,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(2521,90): warning C4101: 'model': unreferenced local variable
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(2521,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(2522,83): warning C4101: 'rotateZMatrix1': unreferenced local variable
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(2521,77): warning C4101: 'scaleMatrix': unreferenced local variable
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(2521,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(2522,67): warning C4101: 'rotateYMatrix1': unreferenced local variable
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(2522,51): warning C4101: 'rotateXMatrix1': unreferenced local variable
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(2522,99): warning C4101: 'scaleMatrix1': unreferenced local variable
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(2522,113): warning C4101: 'model1': unreferenced local variable
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(2522,33): warning C4101: 'translateMatrix2': unreferenced local variable
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(2522,15): warning C4101: 'translateMatrix1': unreferenced local variable
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(2638,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(2638,46): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(2638,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(2646,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(2646,44): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(2631,113): warning C4101: 'rotateX2Matrix': unreferenced local variable
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(2631,97): warning C4101: 'rotateX1Matrix': unreferenced local variable
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(2653,90): warning C4101: 'model': unreferenced local variable
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(2653,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(2653,77): warning C4101: 'scaleMatrix': unreferenced local variable
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(2653,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(2653,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(2666,90): warning C4101: 'model': unreferenced local variable
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(2666,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(2666,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(2687,90): warning C4101: 'model': unreferenced local variable
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(2687,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(2687,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(2804,48): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(2804,43): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(2813,44): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(2813,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(2944,65): warning C4101: 'rotateZMatrix1': unreferenced local variable
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(2944,49): warning C4101: 'rotateYMatrix1': unreferenced local variable
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(2944,33): warning C4101: 'rotateXMatrix1': unreferenced local variable
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(3032,60): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(3599,36): warning C4101: 'translateFromPivotOrg': unreferenced local variable
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(3599,15): warning C4101: 'translateToPivotOrg': unreferenced local variable
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(3675,52): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(3824,45): warning C4101: 'model': unreferenced local variable
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(3824,32): warning C4101: 'scaleMatrix': unreferenced local variable
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(3824,52): warning C4101: 'rotateYMatrix': unreferenced local variable
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(3902,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(3905,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(3915,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(3921,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(3922,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(4063,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(4085,36): warning C4101: 'translateFromPivotOrg': unreferenced local variable
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(4085,15): warning C4101: 'translateToPivotOrg': unreferenced local variable
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(4267,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(4467,40): warning C4101: 'translateFromPivotOrgMain': unreferenced local variable
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(4467,15): warning C4101: 'translateToPivotOrgMain': unreferenced local variable
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(4469,15): warning C4101: 'translateToPivotOrgLocal': unreferenced local variable
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(4469,41): warning C4101: 'translateFromPivotOrgLocal': unreferenced local variable
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(4622,36): warning C4101: 'translateFromPivotOrg': unreferenced local variable
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(4622,15): warning C4101: 'translateToPivotOrg': unreferenced local variable
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(4785,36): warning C4101: 'translateFromPivotOrg': unreferenced local variable
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(4785,15): warning C4101: 'translateToPivotOrg': unreferenced local variable
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(5003,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(4983,36): warning C4101: 'translateFromPivotOrg': unreferenced local variable
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(4980,52): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(4983,15): warning C4101: 'translateToPivotOrg': unreferenced local variable
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(5196,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(5188,36): warning C4101: 'translateFromPivotOrg': unreferenced local variable
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(5185,52): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(5185,67): warning C4101: 'rotateTemp': unreferenced local variable
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(5188,15): warning C4101: 'translateToPivotOrg': unreferenced local variable
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(5266,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(5288,36): warning C4101: 'translateFromPivotOrg': unreferenced local variable
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(5288,15): warning C4101: 'translateToPivotOrg': unreferenced local variable
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(5338,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(5318,36): warning C4101: 'translateFromPivotOrg': unreferenced local variable
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(5315,60): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(5318,15): warning C4101: 'translateToPivotOrg': unreferenced local variable
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(5315,31): warning C4101: 'rotateZ': unreferenced local variable
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(5421,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(5478,40): warning C4101: 'translateFromPivotOrgMain': unreferenced local variable
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(5478,15): warning C4101: 'translateToPivotOrgMain': unreferenced local variable
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(5480,15): warning C4101: 'translateToPivotOrgLocal': unreferenced local variable
+C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\main.cpp(5480,41): warning C4101: 'translateFromPivotOrgLocal': unreferenced local variable
+  Generating Code...
+  Final Project.vcxproj -> C:\Users\USER\Desktop\deskkkk\jj\Ammu\Amusement-Park---A-3D-OpenGL-3.3-Project-master\Final Project\x64\Debug\Final Project.exe
